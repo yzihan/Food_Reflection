@@ -8,5 +8,7 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 https://github.com/lkwq007/stablediffusion-infinity
 
+**visual chatgpt**
 
+https://github.com/microsoft/visual-chatgpt
 
